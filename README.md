@@ -59,11 +59,6 @@ Je construis mes compétences un projet à la fois.
 </div>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=clemlery&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clemlery&layout=compact&theme=default&hide_border=true" />
-</p>
-github-readme-streak-stats
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=clemlery&theme=default&hide_border=true&locale=fr" />
 </p>
 
