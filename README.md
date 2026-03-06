@@ -1,4 +1,4 @@
-# Bonjour, moi c'est [Clément] 👋
+# Bonjour, moi c'est Clément 👋
 
 Étudiant en informatique passionné par la résolution de problèmes et l'apprentissage continu.
 Je construis mes compétences un projet à la fois.
