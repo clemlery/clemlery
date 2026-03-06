@@ -58,10 +58,6 @@ Je construis mes compétences un projet à la fois.
  </table>
 </div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=clemlery&theme=default&hide_border=true&locale=fr" />
-</p>
-
 ---
 
 ## 📬 Me contacter
