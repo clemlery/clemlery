@@ -1,25 +1,25 @@
-# Bonjour, moi c'est Clément 👋
+# Hi, I'm Clément 👋
 
-Étudiant en informatique passionné par la résolution de problèmes et l'apprentissage continu.
-Je construis mes compétences un projet à la fois.
-
----
-
-## 🎓 À propos
-
-- 🏫 En formation : **Nantes Université** — BUT Informatique 3ème année
-- 📍 Basé à : **Nantes**
-- 🔭 En ce moment : je travaille sur **MusicWebsite**
-- 🌱 J'apprends : **Next.js**
-- 💬 Discutons de : **Game of Life de Conway**
+A computer science student passionate about problem-solving and continuous learning.
+Building my skills one project at a time.
 
 ---
 
-## 🛠️ Compétences techniques
+## 🎓 About Me
+
+- 🏫 Currently studying: **Nantes Université** — Bachelor of Technology in Computer Science, 3rd year
+- 📍 Based in: **Nantes**
+- 🔭 Currently working on: **MusicWebsite**
+- 🌱 Currently learning: **Next.js**
+- 💬 Let's talk about: **Conway's Game of Life**
+
+---
+
+## 🛠️ Technical Skills
 
 <div align="center">
 
-<h3>Langages</h3>
+<h3>Languages</h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white)
@@ -27,7 +27,7 @@ Je construis mes compétences un projet à la fois.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white)
 
-<h3>Frameworks & Outils</h3>
+<h3>Frameworks & Tools</h3>
 
 ![Ktor](https://img.shields.io/badge/Ktor-%23087CFA.svg?style=for-the-badge&logo=Ktor&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -42,7 +42,7 @@ Je construis mes compétences un projet à la fois.
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats
 
 <div align="center">
  <table align="center" width="100%" height="100%" >
@@ -64,7 +64,7 @@ Je construis mes compétences un projet à la fois.
 
 ---
 
-## 📬 Me contacter
+## 📬 Contact Me
 
 <div align="center">
 
