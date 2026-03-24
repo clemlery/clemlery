@@ -1,21 +1,21 @@
-# Hi, I'm Clément 👋
+# Hi, I'm Clément
 
 A computer science student passionate about problem-solving and continuous learning.
 Building my skills one project at a time.
 
 ---
 
-## 🎓 About Me
+## About Me
 
-- 🏫 Currently studying: **Nantes Université** — Bachelor of Technology in Computer Science, 3rd year
-- 📍 Based in: **Nantes**
-- 🔭 Currently working on: **MusicWebsite**
-- 🌱 Currently learning: **Next.js**
-- 💬 Let's talk about: **Conway's Game of Life**
+- Currently studying: **Nantes Université** — Bachelor of Technology in Computer Science, 3rd year
+- Based in: **Nantes**
+- Currently working on: **MusicWebsite**
+- Currently learning: **Next.js**
+- Let's talk about: **Conway's Game of Life**
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <div align="center">
 
@@ -42,29 +42,28 @@ Building my skills one project at a time.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
- <table align="center" width="100%" height="100%" >
+  <table align="center" width="100%" height="100%">
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clemlery&theme=github_dark" alt="Clemlery's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=clemlery&theme=merko" alt="Zane's Contribution Streak"/></td>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clemlery&theme=github_dark" alt="Clemlery's GitHub Stats"/></td>
+      <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=clemlery&theme=merko" alt="Clément's Contribution Streak"/></td>
     </tr>
- </table>
-
- <table align="center" width="100%" height="100%" >
+  </table>
+  <table align="center" width="100%" height="100%">
     <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=clemlery&theme=github_dark" alt="Clemlery's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=clemlery&theme=github_dark&utcOffset=10" alt="Clemlery's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clemlery&theme=github_dark" alt="Clemlery's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=clemlery&theme=github_dark" alt="Clemlery's GitHub Stats"/></td>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=clemlery&theme=github_dark" alt="Clemlery's GitHub Stats"/></td>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=clemlery&theme=github_dark&utcOffset=10" alt="Clemlery's GitHub Stats"/></td>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clemlery&theme=github_dark" alt="Clemlery's GitHub Stats"/></td>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=clemlery&theme=github_dark" alt="Clemlery's GitHub Stats"/></td>
     </tr>
- </table>
+  </table>
 </div>
 
 ---
 
-## 📬 Contact Me
+## Contact
 
 <div align="center">
 
