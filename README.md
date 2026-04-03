@@ -69,7 +69,9 @@ Building my skills one project at a time.
 ---
 ## Contact
 <div align="center">
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lerouleyclement@gmail.com)
+<a href="mailto:lerouleyclement@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
 </div>
 
 ---
