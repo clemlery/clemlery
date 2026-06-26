@@ -5,10 +5,10 @@ Building my skills one project at a time.
 ## About Me
 - Currently studying: **Nantes Université** — Bachelor of Technology in Computer Science, 3rd year
 - Based in: **Nantes**
-- Currently working on: **BrawlPulse**
-- Currently learning: **Next.js**
-- Let's talk about: **Conway's Game of Life**
+- Currently working on: **ShootEmUp**
+- Currently learning: **Bash** (ricing)
 ---
+
 ## Technical Skills
 <div align="center">
 
