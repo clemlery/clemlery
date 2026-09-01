@@ -3,8 +3,8 @@ A computer science student passionate about problem-solving and continuous learn
 Building my skills one project at a time.
 ---
 ## About Me
-- Currently studying: **Nantes Université** — Bachelor of Technology in Computer Science, 3rd year
-- Based in: **Nantes**
+- Currently studying: **La Rochelle Université** — Master's in Computer Science — Data Engineering specialization, 1st year
+- Based in: **La Rochelle**
 - Currently working on: **dotfiles**
 - Currently learning: **Bash** (ricing)
 ---
